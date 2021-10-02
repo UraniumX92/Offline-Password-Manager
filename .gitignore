@@ -1,0 +1,7 @@
+/__pycache__/
+/build/
+/dist/
+/.idea/
+zjunk.py
+encrypted_passwords.json
+user_data.json
